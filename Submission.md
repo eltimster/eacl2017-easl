@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Submission"
+title: "Submissions"
 description: ""
 group: navigation
 ---
 {% include JB/setup %}
 
-### Submission
+### Submissions
 
 We invite submissions of extended abstracts/short papers describing recent
 work, thoughts, or best practices on one or more of the topics of interest (up
-to 4 pages). All submissions will be reviewed using a simple blind process by
+to 4 pages + references). All submissions will be reviewed using a simple blind process by
 at least three programm committee members and will be assessed based on their
 relevance, potential to create constructive discussion, and clarity of
 writing. The submissions must be formatted in compliance with the style sheet
