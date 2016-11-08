@@ -8,6 +8,8 @@ group: navigation
 
 EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)
 ---------------------------------------------------------------------------------------
+<br/>
+<br/>
 
 ## Description
 
@@ -19,7 +21,7 @@ We invite the NLP research community to explore approaches going beyond bag of w
 
 We solicit both long and short paper submissions. All papers must describe substantial, original, and unpublished work. Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, thoroughness, significance, contributions to research resources, and replicability. Each submission will be reviewed by at least three program committee members.
 
-Both long and short papers must follow the (two-column format of EACL 2017)[http://eacl2017.org/index.php/calls/call-for-papers]. For the original submission, long papers may be up to eight (8) pages in length plus unlimited pages of references, whereas short papers may be up to four (4) pages in length plus unlimited pages of references. Both long and short papers will be given one additional page of content for the camera-ready version.
+Both long and short papers must follow the [two-column format of EACL 2017](http://eacl2017.org/index.php/calls/call-for-papers). For the original submission, long papers may be up to eight (8) pages in length plus unlimited pages of references, whereas short papers may be up to four (4) pages in length plus unlimited pages of references. Both long and short papers will be given one additional page of content for the camera-ready version.
 
 Papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as posters will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally and as posters.
 
