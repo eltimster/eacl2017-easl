@@ -9,12 +9,12 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : INTEROP2016
-tagline: Workshop on Cross-Platform Text Mining and Natural Language Processing 
+title : EASL 2017
+tagline: EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)
 author :
-  name : Richard Eckart de Castilho
-  email : eckart@ukp.informatik.tu-darmstadt.de
-  github : reckart
+  name : Tim Baldwin
+  email : tb@ldwin.net
+  github : eltimster
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

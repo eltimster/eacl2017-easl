@@ -30,6 +30,4 @@ The **camera-ready** version must follow the guidelines provided in the [Authorâ
 
 Please submit the **camera-ready** version through the [START conference tool](https://www.softconf.com/lrec2016/INTEROP/).
 
-{% include format.md %}
-
 {% include topics.md %}

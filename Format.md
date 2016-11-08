@@ -23,8 +23,6 @@ For presenters: Slides are optional. If you can convey your ideas in a fiery spe
 
 We plan to align the topics of the discussion groups with the topics of the authors submissions. Presently, we consider discussion rounds on the following general topics:
 
-{% include discussiontopics.md %}
-
 The hosts will take minutes which are to be aggregated into a report after the workshop. We wish to encourage authors to offer their help in the report writing process to the organizing committee.
 
 ### Plenary

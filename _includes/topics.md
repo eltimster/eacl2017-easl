@@ -1,15 +1,11 @@
 ### Topics of interest
 
-Workshop topics include but are not limited to:
+Topics of interest include but are not limited to:
 
-* cross-repository discovery of content, language resources, and analytics
-* uniform access to content repositories or heterogeneous data sources (content, knowledge)
-* extraction of textual content from heterogeneous sources
-* orchestration of analytics workflows composed from analytics from different sources
-* orchestration of cross-platform analytics workflows
-* linking knowledge sources and uniformly accessing them from analytics workflows
-* annotation schema design best practices
-* mapping and transformation between annotation schemata
-* dynamic deployment of analytics to computing resources
-* machine-interpretable representation of legal and licensing metadata
-* policy making for TDM for an international open research environment and open access publishing
+* richer/deeper linguistic representations of aspects of EAS
+* understanding of cognitive processing of EAS language
+* extra-linguistic aspects of EAS language
+* socio-cultural aspects of EAS language
+* psycholinguistic aspects of EAS text analysis
+* interpretability of deep learning-based EAS analysis systems
+* identifying origins/dynamic contexts/causative events/reasons in EAS text analysis (including the fields of stance detection, subjective judgements/beliefs detection, argumentation in both emotive and evaluative texts).
