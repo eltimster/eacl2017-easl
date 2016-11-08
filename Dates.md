@@ -8,8 +8,7 @@ group: navigation
 
 ### Important Dates
 
-* <s>Submission: February 25, 2016 -- EXTENDED</s>
-* <s>Notification: March 10, 2016​</s>
-* <s>Early bird registration:  March 17, 2016 -- EXTENDED</s>
-* <s>Camera ready: March 25, 2016</s>
-* Workshop: ​Monday, 23 May 2016​
+* <s>Submission deadline: January 20, 2017</s>
+* <s>Notification of acceptance: February 14, 2017</s>
+* <s>Camera ready deadline: February 21, 2017</s>
+* Workshop: ​April 19, 2017

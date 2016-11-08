@@ -1,26 +1,24 @@
 ---
 layout: page
-title: Workshop on Cross-Platform Text Mining and Natural Language Processing Interoperability
+title: EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)
 tagline: 
 ---
 {% include JB/setup %}
 
-At the 10th Language Resources and Evaluation Conference (LREC 2016)  
-Grand Hotel Bernardin Conference Center, Portorož (Slovenia)
-May 23rd 2016
-
-
-The workshop is over, but the notes are still available to view and comment on. Thanks to all particpants for their constructive discussions and note taking.
-
-* [Proceedings](Program)
-* [Report](Report)
-
 ### Description
 
-Recent years have witnessed an upsurge in the quantity of available digital research data, offering new insights and opportunities for improved understanding. Following advances in Natural Language Processing (NLP), Text and data mining (TDM) is emerging as an invaluable tool for harnessing the power of structured and unstructured content and data. Hidden and new knowledge can be discovered by using TDM at multiple levels and in multiple dimensions. However, text mining and NLP solutions are not easy to discover and use, nor are they easy to combine for end users.
+Language is a medium for the expression of human thought. It serves as the vehicle for conveying our emotions, feelings, beliefs, judgements and opinions of people, events and objects, comparing and contrasting our evaluations with those of others in the world.  Evaluative, Affective and Subjective (EAS) language satisfies our inherent human need to speak of our perceptions and evaluations in a way framed by our internally held beliefs, emotions, biases and opinions. Analysis and understanding of EAS language is multi-disciplinary and complex, deep beyond mere word cues. It extends to the underlying meaning and the implicit socio-cultural origins of the text, with both linguistic and extra-linguistic aspects to it.  Machine comprehension of EAS text on par with human understanding requires identification and understanding of fine-grained emotions, beliefs, opinions, and judgements expressed in language both implicitly and explicitly. The goal of this workshop is to focus the attention of NLP research community on combining deep learning statistical NLP techniques with richer/deeper semantic representations driven by computational linguistics in analysing and understanding EAS text.  
 
-Multiple efforts are being undertaken world-wide to create TDM and NLP platforms. These platforms are targeted at specific research communities, typically researchers in a particular location, e.g. OpenMinTeD, CLARIN (Europe), ALVEO (Australia), or LAPPS (USA). All of these platforms face similar problems in the following areas: discovery of content and analytics capabilities, integration of knowledge resources, legal and licensing aspects, data representation, and analytics workflow specification and execution. 
+This workshop is intended to foster greater cross-disciplinary collaboration between the fields of computational linguistics, machine learning, sociolinguistics, and psycholinguistics, with the aim of improving machine comprehension of evaluative, affective and subjective text. We are also interested in non-trivial EAS text applications which go beyond the mere identification of evaluative, emotive, subjective cue phrases to underlying causative events/reasons/arguments which give rise to these emotions/feelings/beliefs/subjective opinions. We also welcome non-trivial benchmarks for comparing machine comprehension of EAS aspects with human understanding. 
 
-The goal of cross-platform interoperability raises many problems. At the level of content, metadata, language resources, and text annotations, we use different data representations and vocabularies. At the level of workflows, there is no uniform process model that allows platforms to smoothly interact. The licensing status of content, resources, analytics, and of the output created by a combination of such licenses is difficult to determine and there is currently no way to reliably exchange such information between platforms. User identity management is often tightly coupled to the licensing requirements and likewise an impediment for cross-platform interoperability.
+Topics of interest include but are not limited to the following:
+
+* richer/deeper linguistic representations of aspects of EAS
+* understanding of cognitive processing of EAS language
+* extra-linguistic aspects of EAS language
+* socio-cultural aspects of EAS language
+* psycholinguistic aspects of EAS text analysis
+* interpretability of deep learning-based EAS analysis systems
+* identifying origins/dynamic contexts/causative events/reasons in EAS text analysis (including the fields of stance detection, subjective judgements/beliefs detection, argumentation in both emotive and evaluative texts).
 
 {% include topics.md %}
