@@ -29,6 +29,6 @@ Papers will be presented orally or as posters, as determined by the program comm
 
 As the reviewing will be blind, papers must not include authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith (1991) previously showed ..." Papers that do not conform to these requirements will be rejected without review.
 
-Papers that have only appeared on preprint servers such as arXiv.org, do not count as previously published, and may be submitted to the workshop. Note that the version submitted for review must be suitably anonymized, and should not contain references to the prior non-archival version.
+Papers that have only appeared on preprint servers such as [arXiv.org](arXiv.org), do not count as previously published, and may be submitted to the workshop. Note that the version submitted for review must be suitably anonymized, and should not contain references to the prior non-archival version.
 
 
