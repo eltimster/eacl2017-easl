@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<center>EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)</center>
+EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)
 ---------------------------------------------------------------------------------------
 <br/>
 <br/>
