@@ -6,33 +6,27 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### Organisers
+### Organizing Committee
 
-* Richard Eckart de Castilho, Technische Universit√§t Darmstadt, Germany
-* Sophia Ananiadou University of Manchester, UK
-* Thomas Margoni, University of Stirling, UK
-* Wim Peters, University of Sheffield, UK
-* Stelios Piperidis, ILSP/ARC, Greece
+* Timothy Baldwin, The University of Melbourne
+* Richard Socher, Stanford University & Salesforce.com
+* Pushpak Bhattacharya, IIT Bombay
+* Sandya Mannarswamy, Xerox India Research Center
+* Shourya Roy, Xerox India Research Center
 
-### Program Committee
+### Programme Committee
 
-* Dominique Estival, Western Sydney University, Australia
-* Iryna Gurevych, Technische Universit√§t Darmstadt, Germany 
-* Jens Grivolla, Universitat Pompeu Fabra, Spain
-* John Philip McCrae, National University of Ireland, Galway, Ireland
-* Joseph Mariani, LIMSI/CNRS, France
-* Kalina Bontcheva, University of Sheffield, UK
-* Lucie Guibault, University of Amsterdam, The Netherlands
-* Menzo Windhouwer, Meertens Institute, The Netherlands
-* Nancy Ide, Vassar College, USA
-* Natalia Manola, ILSP/ARC, Greece
-* Nicolas Hernandez, University of Nantes, France
-* Pei Chen, Wired Informatics, USA
-* Peter Kl√ºgl, Averbis GmbH, Germany
-* Rafal Rak, UberResearch and University of Manchester, UK
-* Renaud Richardet, EPFL, Switzerland
-* Robert Bossy, INRA, France
-* Thilo G√∂tz, IBM, Germany
-* Steven Bethard, University of Alabama at Birmingham, USA
-* Torsten Zesch, University of Duisburg-Essen, Germany
-* Yohei Murakami, Kyoto University, Japan
+* Cecilia Ovesdotter Alm, Rochester Institute of technology
+* Sudeshna Sarkar, IIT Kharagpur
+* Stan Szpakowicz, University of Ottawa
+* Marilyn Walker, UCSC
+* Jasy Liew Suet Yan, Universiti Sains Malaysi
+* Vincent Ng, University of Texas at Dallas
+* Paolo Rosso, Universitat Politè´≤cnica de Valè´≤ncia
+* Diana Inkpen, University of Ottawa
+* Animesh Mukherjee, IIT KGP
+* Uda Hahn, Friedrich-Schiller-Universitè´£t Jena
+* L V Subramaniam, IBM Research
+* Scott Nowson, Accenture Research
+* Sandipan Dandipat, Microsoft
+
