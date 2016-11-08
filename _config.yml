@@ -12,9 +12,9 @@ markdown: kramdown
 title : EASL 2017
 tagline: EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)
 author :
-  name : Tim Baldwin
+  name : Sandya Mannarswamy and Tim Baldwin
   email : tb@ldwin.net
-  github : eltimster
+  github : eacl2017-easl
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
