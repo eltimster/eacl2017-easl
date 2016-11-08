@@ -22,10 +22,10 @@ group: navigation
 * Marilyn Walker, UCSC
 * Jasy Liew Suet Yan, Universiti Sains Malaysi
 * Vincent Ng, University of Texas at Dallas
-* Paolo Rosso, Universitat Polit«²cnica de Val«²ncia
+* Paolo Rosso, Universitat PolitÃ¨cnica de ValÃ¨ncia
 * Diana Inkpen, University of Ottawa
 * Animesh Mukherjee, IIT KGP
-* Uda Hahn, Friedrich-Schiller-Universit«£t Jena
+* Udo Hahn, Friedrich-Schiller-Universitat Jena
 * L V Subramaniam, IBM Research
 * Scott Nowson, Accenture Research
 * Sandipan Dandipat, Microsoft
