@@ -8,26 +8,22 @@ group: navigation
 
 ### Submissions
 
-We invite submissions of extended abstracts/short papers describing recent
-work, thoughts, or best practices on one or more of the topics of interest (up
-to 4 pages + references). All submissions will be reviewed using a simple blind process by
-at least three programm committee members and will be assessed based on their
-relevance, potential to create constructive discussion, and clarity of
-writing. The submissions must be formatted in compliance with the style sheet
-that will be adopted for the LREC Proceedings (to be announced later on the
-Conference web site).
+Both long and short papers must follow the [two-column format of EACL
+2017](http://eacl2017.org/index.php/calls/call-for-papers). For the original
+submission, long papers may be up to eight (8) pages in length plus unlimited
+pages of references, whereas short papers may be up to four (4) pages in
+length plus unlimited pages of references. Both long and short papers will be
+given one additional page of content for the camera-ready version.
 
-Accepted papers will be presented at the workshop in the form of a 5 minute
-lightning talk and included in the workshop proceedings. If there is an
-unexpectedly high number of submissions, we may consider accepting some as
-posters. 
+Papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as posters will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally and as posters.
 
-### Authors Kit
+As the reviewing will be blind, papers must not include authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith (1991) previously showed ..." Papers that do not conform to these requirements will be rejected without review.
 
-The **camera-ready** version must follow the guidelines provided in the [Author’s Kit](http://lrec2016.lrec-conf.org/en/submission/authors-kit/) and it should be in pdf unprotected format.
+Papers that have only appeared on preprint servers such as [arXiv.org](arXiv.org), do not count as previously published, and may be submitted to the workshop. Note that the version submitted for review must be suitably anonymized, and should not contain references to the prior non-archival version.
+
+{% include topics.md %}
 
 ### How to submit
 
-Please submit the **camera-ready** version through the [START conference tool](https://www.softconf.com/eacl2017/easl2017_workshop/).
+Please submit through the [START conference tool](https://www.softconf.com/eacl2017/easl2017_workshop/).
 
-{% include topics.md %}
