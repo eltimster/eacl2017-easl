@@ -8,7 +8,7 @@ group: navigation
 
 ### Important Dates
 
-* Submission deadline: January 29th, 2017
+* Submission deadline: January 27th, 2017
 * Notification of acceptance: February 14, 2017
 * Camera ready deadline: February 21, 2017
 * Workshop: April 3-4, 2017
